@@ -17,6 +17,11 @@ Para el analísis se tomaron varios puntos para poder llegar a una conclusión:
 5. Se segmentaron los datos basado en reglas claras y visualizar proporciones.
 6. Por último se redactan las conclusiones y datos encontrados.
 
-## Instrucciones de apertura del archivo
-
-1. 
+## Instrucciones de apertura del archivo (Google Colab)
+1. Descarga el archivo de Python de esta en este archivo.
+2. Entra a la página de Google Colab
+3. Ingresa con tu cuenta de google
+4. Aparecera una ventana emergente en la cual en la parte inferior izquierda aparecerá un boton azul con la leyenda Nuevo Notebook, presionelo.
+5. En seguida del lado derecho de la pantalla aparecerán varios iconos, habra de entrar al icono de carpeta.
+6. Se desplegará una ventana en la cual en la parte superior aparecerá el icono de subir archivo representado con una flecha hacia arriba, habrá que presionarlo
+7. Una vez presionado, aparecera su ventana de buscqueda en su ordenador y seleccione el archivo descargado previamente
